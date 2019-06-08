@@ -1,17 +1,28 @@
 body{
-    background: #212121;
+    background: #fff;
 }
 
 p{
-    color: #fff;
+    /* color: #fff; */
 }
 
 .wrapper{
     padding: 40px;
 }
-
+.row{
+    margin-bottom: 40px;
+}
 .top{
     margin: 60px 0 60px 0;
+}
+
+.menu{
+    text-align: right;
+}
+
+.menu > dt{
+    display: inline-block;
+    margin-right: 10px;
 }
 
 .name{
@@ -21,5 +32,17 @@ p{
 
 .desp{
     font-size: 24px;
+}
+
+.wrap-img{
+    text-align: center;
+}
+.wrap-img > .title{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.wrap-img > .subtitle{
+    font-size: 12px;
+    margin-top: 3px;
 }
 
