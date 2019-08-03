@@ -1,3 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+@-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 body {
   background: #fff;
 }
@@ -11,8 +29,16 @@ body {
   margin: 0 auto;
 }
 
+.article .image {
+  text-align: center;
+}
+
 .row {
   margin-bottom: 40px;
+}
+
+.col-sm-12 {
+  margin-bottom: 15px;
 }
 
 .top {
@@ -27,6 +53,10 @@ body {
 .menu dt {
   display: inline-block;
   margin-right: 20px;
+}
+
+.menu dt a {
+  color: #555;
 }
 
 .name {
@@ -45,13 +75,16 @@ body {
 }
 
 .wrap-img .title {
+  color: #555;
   font-size: 20px;
   font-weight: 600;
   margin-top: 10px;
+  text-transform: uppercase;
 }
 
 .wrap-img .subtitle {
-  font-size: 12px;
+  color: #aaa;
+  font-size: 16px;
   margin-top: 3px;
 }
 
@@ -66,5 +99,22 @@ body {
 
 .article-center {
   text-align: center;
+}
+
+.top-img1 {
+  width: 100%;
+  height: 150px;
+  background: #000;
+}
+
+.summary {
+  letter-spacing: 8px;
+  color: #555;
+}
+
+.headtitle {
+  font-size: 16px;
+  font-weight: 500;
+  color: pink;
 }
 /*# sourceMappingURL=style.css.map */
