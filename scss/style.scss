@@ -24,6 +24,7 @@ body{
     background: #fff;
     font-family: 'Fakt', sans-serif;
     font-weight: 100;
+    margin-bottom: 0;
 }
 
 .wrapper{
@@ -33,6 +34,17 @@ body{
 .inner{
     width: 860px;
     margin: 0 auto;
+
+    .imgae{
+        text-align: center;
+    }
+    
+}
+
+footer{
+    margin-top: 20px;
+    margin-bottom: -20px;
+    font-size: 13px;
 }
 
 .article{
@@ -144,6 +156,7 @@ body{
 }
 
 .headtitle{
+    margin-top: 20px;
     font-size: $font-sub;
     font-weight: 500;
     color: pink;
