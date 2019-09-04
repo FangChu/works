@@ -18,6 +18,8 @@
 
 body {
   background: #fff;
+  font-family: 'Fakt', sans-serif;
+  font-weight: 100;
 }
 
 .wrapper {
@@ -31,6 +33,22 @@ body {
 
 .article .image {
   text-align: center;
+}
+
+.article h3 {
+  color: pink;
+}
+
+.article p {
+  text-align: justify;
+  margin-top: 5px;
+  font-family: 'Fakt', sans-serif;
+  font-weight: 100;
+}
+
+.article .keywords {
+  margin-bottom: 30px;
+  color: #777;
 }
 
 .row {
@@ -57,6 +75,10 @@ body {
 
 .menu dt a {
   color: #555;
+}
+
+.menu dt a.active {
+  color: pink;
 }
 
 .name {
@@ -116,5 +138,30 @@ body {
   font-size: 16px;
   font-weight: 500;
   color: pink;
+}
+
+.info {
+  margin-bottom: 30px;
+}
+
+.info ul {
+  margin: 20px 0 0px 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+.info li {
+  list-style: none;
+  list-style-type: none;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+.info .title {
+  border-left: 3px solid pink;
+  padding-left: 5px;
+  margin-bottom: 10px;
+  color: #777;
+  font-size: 16px;
 }
 /*# sourceMappingURL=style.css.map */

@@ -6,13 +6,14 @@
 }
 
 
-$font: 'Varela Round', sans-serif;
+$font: 'Fakt', sans-serif,'Varela Round', sans-serif;
 
 $primary: #30c39e;
 $font-title: 20px;
 $font-sub: 16px;
 $font-gray: #555;
 $font-gray-1: #aaa;
+$font-size: 14px;
 
 
 %transition {
@@ -21,6 +22,8 @@ $font-gray-1: #aaa;
 
 body{
     background: #fff;
+    font-family: 'Fakt', sans-serif;
+    font-weight: 100;
 }
 
 .wrapper{
@@ -37,6 +40,23 @@ body{
     .image{
         text-align: center;
     }
+
+    h3{
+        color: pink;
+    }
+
+    p{
+        text-align: justify;
+        margin-top: 5px;
+        font-family: 'Fakt', sans-serif;
+        font-weight: 100;
+    }
+
+    .keywords{
+        margin-bottom: 30px;
+        color: #777;
+    }
+    
 }
 
 .row{
@@ -61,6 +81,10 @@ body{
 
         a{
             color: #555;
+        }
+
+        a.active{
+            color: pink;
         }
     }
 }
@@ -123,4 +147,32 @@ body{
     font-size: $font-sub;
     font-weight: 500;
     color: pink;
+}
+
+
+.info{
+    margin-bottom: 30px;
+
+    ul{
+        margin: 20px 0 0px 0;
+        padding: 0;
+        font-size: $font-size;
+    }
+
+    li{
+        list-style: none;
+        list-style-type: none;
+        margin-right: 10px;
+        margin-bottom: 5px;
+    }
+
+    .title{
+        border-left: 3px solid pink;
+        padding-left: 5px;
+        margin-bottom: 10px;
+        color: #777;
+        font-size: 16px;
+
+    }
+
 }
