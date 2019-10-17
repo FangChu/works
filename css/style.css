@@ -28,7 +28,7 @@ body {
 }
 
 .inner {
-  width: 860px;
+  width: auto;
   margin: 0 auto;
 }
 
@@ -219,5 +219,14 @@ footer {
 
 .bg2 {
   background: black;
+}
+
+@media screen and (min-width: 860px) {
+  .inner {
+    width: 860px;
+  }
+  img, .imgae > img {
+    width: 80%;
+  }
 }
 /*# sourceMappingURL=style.css.map */

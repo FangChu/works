@@ -5,6 +5,9 @@
     100%{opacity:1;}
 }
 
+$break-desktop: 860px;
+// $break-large: 1200px;
+
 
 $font: 'Fakt', sans-serif,'Varela Round', sans-serif;
 
@@ -32,12 +35,16 @@ body{
 }
 
 .inner{
-    width: 860px;
+    width: auto;
     margin: 0 auto;
+
+    
 
     .imgae{
         text-align: center;
     }
+
+    
     
 }
 
@@ -227,4 +234,14 @@ footer{
 
 .bg2{
     background: black;
+}
+
+@media screen and (min-width: $break-desktop) {
+    .inner{
+        width: 860px;
+    }
+
+    img,.imgae>img{
+        width: 80%;
+    }
 }
