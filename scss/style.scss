@@ -21,7 +21,7 @@ $font-size: 14px;
 }
 
 body{
-    background: #fff;
+    background:  #fff;
     font-family: 'Fakt', sans-serif;
     font-weight: 100;
     margin-bottom: 0;
@@ -45,6 +45,19 @@ footer{
     margin-top: 20px;
     margin-bottom: -20px;
     font-size: 13px;
+}
+
+.pre-info{
+    font-size: 14px;
+
+    h6{
+        font-family: "Radnika-Bold", sans-serif;
+    }
+    ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
 }
 
 .article{

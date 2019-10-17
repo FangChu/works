@@ -42,6 +42,20 @@ footer {
   font-size: 13px;
 }
 
+.pre-info {
+  font-size: 14px;
+}
+
+.pre-info h6 {
+  font-family: "Radnika-Bold", sans-serif;
+}
+
+.pre-info ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .article .image {
   text-align: center;
 }
