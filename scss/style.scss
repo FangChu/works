@@ -28,7 +28,7 @@ body{
 }
 
 .wrapper{
-    padding: 40px;
+    padding: 40px 0;
 }
 
 .inner{
@@ -138,7 +138,8 @@ footer{
 
 .wrap-img{
     text-align: center;
-
+    transition: transform .2s;
+    
     .title{
         color: $font-gray;
         font-size: $font-title;
@@ -152,6 +153,10 @@ footer{
         font-size: $font-sub;
         margin-top: 3px;
         
+    }
+
+    &:hover > img{
+        transform: scale(1.5);
     }
 }
 
@@ -186,6 +191,13 @@ footer{
     color: pink;
 }
 
+.subtitle{
+    margin: 20px 0;
+    font-size: 15px;
+    font-weight: 800;
+    color: Gray;
+}
+
 
 .info{
     margin-bottom: 30px;
@@ -212,4 +224,8 @@ footer{
 
     }
 
+}
+
+.bg2{
+    background: black;
 }

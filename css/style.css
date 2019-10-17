@@ -24,7 +24,7 @@ body {
 }
 
 .wrapper {
-  padding: 40px;
+  padding: 40px 0;
 }
 
 .inner {
@@ -129,6 +129,10 @@ footer {
 
 .wrap-img {
   text-align: center;
+  -webkit-transition: -webkit-transform .2s;
+  transition: -webkit-transform .2s;
+  transition: transform .2s;
+  transition: transform .2s, -webkit-transform .2s;
 }
 
 .wrap-img .title {
@@ -143,6 +147,11 @@ footer {
   color: #aaa;
   font-size: 16px;
   margin-top: 3px;
+}
+
+.wrap-img:hover > img {
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
 }
 
 .info {
@@ -176,6 +185,13 @@ footer {
   color: pink;
 }
 
+.subtitle {
+  margin: 20px 0;
+  font-size: 15px;
+  font-weight: 800;
+  color: Gray;
+}
+
 .info {
   margin-bottom: 30px;
 }
@@ -199,5 +215,9 @@ footer {
   margin-bottom: 10px;
   color: #777;
   font-size: 16px;
+}
+
+.bg2 {
+  background: black;
 }
 /*# sourceMappingURL=style.css.map */
