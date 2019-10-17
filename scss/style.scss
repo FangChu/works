@@ -28,7 +28,7 @@ body{
 }
 
 .wrapper{
-    padding: 40px 0;
+    padding: 40px 15px;
 }
 
 .inner{
@@ -139,7 +139,6 @@ footer{
 .wrap-img{
     text-align: center;
     transition: transform .2s;
-    
     .title{
         color: $font-gray;
         font-size: $font-title;
