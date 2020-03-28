@@ -10,7 +10,6 @@ $break-desktop: 860px;
 
 
 $font: 'Fakt', sans-serif,'Varela Round', sans-serif;
-
 $primary: #30c39e;
 $font-title: 20px;
 $font-sub: 16px;
@@ -38,14 +37,10 @@ body{
     width: auto;
     margin: 0 auto;
 
-    
-
     .imgae{
         text-align: center;
     }
 
-    
-    
 }
 
 footer{
@@ -121,7 +116,7 @@ footer{
 }
 
 .top{
-    margin: 60px 0 60px 0;
+    margin: 80px 0 60px 0;
 }
 
 .menu{
@@ -145,10 +140,15 @@ footer{
 .name{
     color: pink;
     font-size: 50px;
+
+    span{
+        font-size: 12px;
+        display: block;
+    }
 }
 
 .desp{
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 300;
     color: gray;
 }
@@ -156,6 +156,7 @@ footer{
 .wrap-img{
     text-align: center;
     transition: transform .2s;
+
     .title{
         color: $font-gray;
         font-size: $font-title;
@@ -168,7 +169,6 @@ footer{
         color: $font-gray-1;
         font-size: $font-sub;
         margin-top: 3px;
-        
     }
 
     &:hover > img{
