@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@import url('https://fonts.googleapis.com/css?family=Muli|Sen&display=swap');
 
 @keyframes fade-in{  
     0%{ opacity: 0;}
@@ -9,13 +9,15 @@ $break-desktop: 860px;
 // $break-large: 1200px;
 
 
-$font: 'Fakt', sans-serif,'Varela Round', sans-serif;
+$font-family: 'Sen', sans-serif,'Muli', sans-serif;
 $primary: #30c39e;
 $font-title: 20px;
 $font-sub: 16px;
 $font-gray: #555;
 $font-gray-1: #aaa;
 $font-size: 14px;
+$font-light: #fff;
+$font-main: #fe8752;
 
 
 %transition {
@@ -23,10 +25,27 @@ $font-size: 14px;
 }
 
 body{
-    background:  #fff;
-    font-family: 'Fakt', sans-serif;
+    background:  #000;
+    font-family: $font-family;
     font-weight: 100;
     margin-bottom: 0;
+    color: $font-light;
+}
+
+a{
+    color: #fff;
+    transition: all 0.4s;
+
+    &:hover{
+        text-decoration: none;
+        color: $font-main;
+    }
+}
+
+
+p{
+    margin-bottom: 10px;
+    line-height: 1.5;
 }
 
 .wrapper{
@@ -58,7 +77,7 @@ footer{
 
     h6{
         font-family: "Radnika-Bold", sans-serif;
-        color: #b14f61;
+        color: $font-light;
         font-weight: 800;
     }
     ul{
@@ -79,12 +98,12 @@ footer{
     }
 
     h3{
-        color: pink;
+        color: $font-main;
     }
 
     h5{
         font-size: 16px;
-        color: rgb(55, 55, 55);
+        color: $font-light;
     }
 
     p{
@@ -128,25 +147,26 @@ footer{
         margin-right: 40px;
 
         a{
-            color: #555;
+            color: $font-light;
             letter-spacing: 1px;
             transition: all 0.4s;
             text-decoration: none;
 
             &:hover{
-                color: pink;
+                color: $font-main;
             }
         }
 
         a.active{
-            color: pink;
+            color: $font-main;
         }
     }
 }
 
 .name{
-    color: pink;
+    color: $font-main;
     font-size: 50px;
+    font-family: $font-family;
 
     span{
         font-size: 12px;
@@ -162,34 +182,53 @@ footer{
 
 .wrap-img{
     text-align: center;
-    transition: transform .2s;
+    .thumbnail{
+        display: block;
+        transition: all 0.4s;
+        cursor: pointer;
 
-    a{
-        display: inline-block;
+        img{
+            border-radius: 10px;
+        }
+
+        .title{
+            color: $font-light;
+            font-size: $font-title;
+            font-weight: 600;
+            margin-top: 10px;
+            text-transform: uppercase;
+        }
+    
+        .subtitle{
+            color: $font-light;
+            font-size: $font-sub;
+        }
+        
+       
+        &:hover >.title,.subtitle{
+            color: $font-main;
+            transition: all 0.4s;
+        }
+
+        &:hover > img{
+            -webkit-filter:brightness(.6);
+            transition: all 0.4s;
+        }
     }
 
-    .title{
-        color: $font-gray;
-        font-size: $font-title;
-        font-weight: 600;
-        margin-top: 10px;
-        text-transform: uppercase;
-    }
+}
 
-    .subtitle{
-        color: $font-gray-1;
-        font-size: $font-sub;
-        margin-top: 3px;
-    }
+.hr{
+    border-width: 1px;
+    border-color: $font-main;
+    margin: 10px 0;
+}
 
-    &:hover > img{
-        transform: scale(1.5);
-    }
-
-    img{
-        border-radius: 15px;
-    }
-
+.about_desp{
+    background-color: #ffffff36;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
 }
 
 .info{
@@ -210,6 +249,11 @@ footer{
 
     span{
         display: block;
+    }
+
+    p{
+        text-align: justify;
+        font-family: 'Muli';
     }
 }
 
@@ -232,15 +276,15 @@ footer{
     margin-top: 20px;
     font-size: $font-sub;
     font-weight: 500;
-    color: pink;
+    color: $font-main;
 }
 
-.subtitle{
-    margin: 20px 0;
-    font-size: 15px;
-    font-weight: 800;
-    color: Gray;
-}
+// .subtitle{
+//     margin: 20px 0;
+//     font-size: 15px;
+//     font-weight: 800;
+//     color: Gray;
+// }
 
 
 .info{
@@ -265,9 +309,9 @@ footer{
     }
 
     .title{
-        border-left: 3px solid pink;
+        border-left: 3px solid $font-main;
         margin-bottom: 10px;
-        color: #e89daa;
+        color: $font-main;
         font-size: 16px;
         font-weight: 900;
 
@@ -284,7 +328,8 @@ footer{
 }
 
 .pic_me{
-    width: 230px;
+    width: auto;
+    margin-top: 40px;
 }
 
 @media screen and (min-width: $break-desktop) {
