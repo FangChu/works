@@ -157,6 +157,10 @@ footer{
     text-align: center;
     transition: transform .2s;
 
+    a{
+        display: inline-block;
+    }
+
     .title{
         color: $font-gray;
         font-size: $font-title;
@@ -174,6 +178,11 @@ footer{
     &:hover > img{
         transform: scale(1.5);
     }
+
+    img{
+        border-radius: 15px;
+    }
+
 }
 
 .info{

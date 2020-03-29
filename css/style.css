@@ -105,7 +105,7 @@ footer {
 }
 
 .top {
-  margin: 60px 0 60px 0;
+  margin: 80px 0 60px 0;
 }
 
 .menu {
@@ -131,8 +131,13 @@ footer {
   font-size: 50px;
 }
 
+.name span {
+  font-size: 12px;
+  display: block;
+}
+
 .desp {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 300;
   color: gray;
 }
@@ -143,6 +148,10 @@ footer {
   transition: -webkit-transform .2s;
   transition: transform .2s;
   transition: transform .2s, -webkit-transform .2s;
+}
+
+.wrap-img a {
+  display: inline-block;
 }
 
 .wrap-img .title {
@@ -162,6 +171,10 @@ footer {
 .wrap-img:hover > img {
   -webkit-transform: scale(1.5);
           transform: scale(1.5);
+}
+
+.wrap-img img {
+  border-radius: 15px;
 }
 
 .info {
