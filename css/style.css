@@ -1,19 +1,25 @@
 @import url("https://fonts.googleapis.com/css?family=Muli|Sen&display=swap");
-@-webkit-keyframes fade-in {
-  0% {
+@-webkit-keyframes fadeIn {
+  from {
     opacity: 0;
   }
-  100% {
+  to {
     opacity: 1;
   }
 }
-@keyframes fade-in {
-  0% {
+
+@keyframes fadeIn {
+  from {
     opacity: 0;
   }
-  100% {
+  to {
     opacity: 1;
   }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
 }
 
 body {
@@ -22,6 +28,16 @@ body {
   font-weight: 100;
   margin-bottom: 0;
   color: #fff;
+}
+
+#full-page {
+  -webkit-animation: fadeIn 1s ease-out .2s 1 forwards;
+          animation: fadeIn 1s ease-out .2s 1 forwards;
+  opacity: 0;
+}
+
+.inner-page {
+  background: #e9e9e9;
 }
 
 a {
@@ -42,6 +58,7 @@ p {
 
 .wrapper {
   padding: 40px 15px;
+  text-align: center;
 }
 
 .inner {
@@ -191,12 +208,7 @@ footer {
   text-transform: uppercase;
 }
 
-.wrap-img .thumbnail .subtitle {
-  color: #fff;
-  font-size: 16px;
-}
-
-.wrap-img .thumbnail:hover > .title, .wrap-img .thumbnail .subtitle {
+.wrap-img .thumbnail:hover > .title {
   color: #fe8752;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
@@ -206,6 +218,11 @@ footer {
   -webkit-filter: brightness(0.6);
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
+}
+
+.wrap-img .thumbnail > .subtitle {
+  color: #fff;
+  font-size: 16px;
 }
 
 .hr {
