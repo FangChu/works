@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="636" height="169" viewBox="0 0 636 169">
+  <g id="Group_535" data-name="Group 535" transform="translate(-92 -504)">
+    <rect id="Rectangle_284" data-name="Rectangle 284" width="153" height="41" rx="3" transform="translate(92 567)" fill="#6493ff"/>
+    <text id="靜態性文章" transform="translate(169 594)" fill="#333" font-size="16" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-40" y="0">靜態性文章</tspan></text>
+    <text id="Static_Articles" data-name="Static Articles" transform="translate(169 633)" fill="#333" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-49.328" y="0">Static Articles</tspan></text>
+    <rect id="Rectangle_285" data-name="Rectangle 285" width="153" height="41" rx="3" transform="translate(575 567)" fill="#e0e9ff"/>
+    <text id="一般資訊文章" transform="translate(652 594)" fill="#333" font-size="16" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-48" y="0">一般資訊文章</tspan></text>
+    <text id="_General_Article" data-name="
+General Article" transform="translate(652 620)" fill="#333" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0"></tspan><tspan x="-52.584" y="13">General Article</tspan></text>
+    <rect id="Rectangle_286" data-name="Rectangle 286" width="153" height="41" rx="3" transform="translate(255 567)" fill="#9dbbff"/>
+    <text id="影片類文章" transform="translate(332 594)" fill="#333" font-size="16" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-40" y="0">影片類文章</tspan></text>
+    <text id="Video_page" data-name="Video page" transform="translate(332 633)" fill="#333" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-40.304" y="0">Video page</tspan></text>
+    <rect id="Rectangle_287" data-name="Rectangle 287" width="153" height="41" rx="3" transform="translate(415 567)" fill="#bfd3ff"/>
+    <text id="活動類文章" transform="translate(492 594)" fill="#333" font-size="16" font-family="PingFangTC-Regular, PingFang TC"><tspan x="-40" y="0">活動類文章</tspan></text>
+    <text id="Events" transform="translate(492 633)" fill="#333" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-24.152" y="0">Events</tspan></text>
+    <text id="Higher" transform="translate(126 523)" fill="#6493ff" font-size="16" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-23.552" y="0">Higher</tspan></text>
+    <text id="Lower" transform="translate(668 520)" fill="#bfd3ff" font-size="16" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="-23.848" y="0">Lower</tspan></text>
+    <path id="Path_776" data-name="Path 776" d="M5.5,0A5.5,5.5,0,1,1,0,5.5,5.5,5.5,0,0,1,5.5,0Z" transform="translate(113 538)" fill="#6493ff"/>
+    <circle id="Ellipse_102" data-name="Ellipse 102" cx="5.5" cy="5.5" r="5.5" transform="translate(662 538)" fill="#e0e9ff"/>
+    <line id="Line_193" data-name="Line 193" x2="543" transform="translate(124.5 543.5)" fill="none" stroke="#bfd3ff" stroke-width="1"/>
+    <text id="介紹官網資訊為主" transform="translate(166 668)" fill="#bfd3ff" font-size="16" font-family="PingFangTC-Semibold, PingFang TC" font-weight="600"><tspan x="-64" y="0">介紹官網資訊為主</tspan></text>
+    <text id="每週更新影片" transform="translate(326 668)" fill="#bfd3ff" font-size="16" font-family="PingFangTC-Semibold, PingFang TC" font-weight="600"><tspan x="-48" y="0">每週更新影片</tspan></text>
+    <text id="定期活動及講座" transform="translate(490 668)" fill="#bfd3ff" font-size="16" font-family="PingFangTC-Semibold, PingFang TC" font-weight="600"><tspan x="-56" y="0">定期活動及講座</tspan></text>
+    <text id="其他資訊文章" transform="translate(655 668)" fill="#bfd3ff" font-size="16" font-family="PingFangTC-Semibold, PingFang TC" font-weight="600"><tspan x="-48" y="0">其他資訊文章</tspan></text>
+  </g>
+</svg>

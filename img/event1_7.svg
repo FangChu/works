@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="826" height="226" viewBox="0 0 826 226">
+  <g id="Group_5" data-name="Group 5" transform="translate(-190 -404)">
+    <path id="Path_2" data-name="Path 2" d="M0,0H252.781V226H0Z" transform="translate(319.219 404)" fill="#e5e5e5"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(190 491)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="113" height="49" rx="24.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="112" height="48" rx="24" fill="none"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(602 491)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="170" height="49" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="169" height="48" rx="5.5" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(602 554)" fill="#61d0be" stroke="#707070" stroke-width="1">
+      <rect width="170" height="49" rx="24.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="169" height="48" rx="24" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(347 491)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="212" height="49" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="211" height="48" rx="3.5" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(347 420)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="212" height="49" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="211" height="48" rx="3.5" fill="none"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(347 562)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="212" height="49" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="211" height="48" rx="3.5" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(815 554)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="201" height="49" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="200" height="48" rx="3.5" fill="none"/>
+    </g>
+    <text id="Main_Page" data-name="Main Page" transform="translate(215 521)" fill="#707070" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Main Page</tspan></text>
+    <text id="Nav2_the_game_machine_" data-name="Nav2 (the game machine)" transform="translate(379 521)" fill="#707070" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Nav2 (the game machine)</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="44" transform="translate(771.5 578.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="44" transform="translate(558.5 515.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Click_the_result_Button" data-name="Click the result Button" transform="translate(623 583)" fill="#fff" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Click the result Button</tspan></text>
+    <text id="Active_the_game_machine" data-name="Active the game machine" transform="translate(614 520)" fill="#707070" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Active the game machine</tspan></text>
+    <text id="Select_Copy_a_object_link_" data-name="Select &amp; Copy a object link " transform="translate(839 584)" fill="#707070" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Select &amp; Copy a object link </tspan></text>
+    <text id="Nav1_Youtube_" data-name="Nav1  (Youtube)" transform="translate(407 450)" fill="#707070" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0" xml:space="preserve">Nav1  (Youtube)</tspan></text>
+    <text id="Nav3_Rakuya.com_" data-name="Nav3 (Rakuya.com)" transform="translate(397 591)" fill="#707070" font-size="13" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Nav3 (Rakuya.com)</tspan></text>
+    <line id="Line_3" data-name="Line 3" x2="45" transform="translate(302.5 515.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="15" transform="translate(332.5 444.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x2="15" transform="translate(332.5 586.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" y1="142" transform="translate(332.5 444.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" y1="38" transform="translate(885.5 516.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_8" data-name="Line 8" y1="15" transform="translate(687.5 539.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_9" data-name="Line 9" x2="114" transform="translate(771.5 516.5)" fill="none" stroke="#707070" stroke-linecap="square" stroke-width="1"/>
+    <path id="Icon_awesome-arrow-left" data-name="Icon awesome-arrow-left" d="M3.977,8.944l-.343.343a.369.369,0,0,1-.524,0l-3-3a.369.369,0,0,1,0-.524l3-3a.369.369,0,0,1,.524,0l.343.343a.371.371,0,0,1-.006.53L2.108,5.4H6.55a.37.37,0,0,1,.371.371v.495a.37.37,0,0,1-.371.371H2.108L3.971,8.414A.369.369,0,0,1,3.977,8.944Z" transform="translate(771.186 510.436)" fill="#707070"/>
+    <path id="Icon_awesome-arrow-left-2" data-name="Icon awesome-arrow-left" d="M3.977,8.944l-.343.343a.369.369,0,0,1-.524,0l-3-3a.369.369,0,0,1,0-.524l3-3a.369.369,0,0,1,.524,0l.343.343a.371.371,0,0,1-.006.53L2.108,5.4H6.55a.37.37,0,0,1,.371.371v.495a.37.37,0,0,1-.371.371H2.108L3.971,8.414A.369.369,0,0,1,3.977,8.944Z" transform="translate(602.103 521.479) rotate(180)" fill="#707070"/>
+    <path id="Icon_awesome-arrow-left-3" data-name="Icon awesome-arrow-left" d="M3.977,8.944l-.343.343a.369.369,0,0,1-.524,0l-3-3a.369.369,0,0,1,0-.524l3-3a.369.369,0,0,1,.524,0l.343.343a.371.371,0,0,1-.006.53L2.108,5.4H6.55a.37.37,0,0,1,.371.371v.495a.37.37,0,0,1-.371.371H2.108L3.971,8.414A.369.369,0,0,1,3.977,8.944Z" transform="translate(815.103 584.479) rotate(180)" fill="#707070"/>
+  </g>
+</svg>
