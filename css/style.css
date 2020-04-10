@@ -23,11 +23,11 @@
 }
 
 body {
-  background: #000;
+  background: #fff;
   font-family: "Sen", sans-serif, "Muli", sans-serif;
   font-weight: 100;
   margin-bottom: 0;
-  color: #fff;
+  color: #232323;
   line-height: 2;
 }
 
@@ -42,12 +42,8 @@ body {
   color: #000;
 }
 
-.inner-content .menu {
-  background: #212529;
-}
-
 a {
-  color: #fff;
+  color: #212529;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
@@ -248,14 +244,10 @@ footer {
 
 .menu {
   text-align: right;
-  position: fixed;
+  position: relative;
   width: 100%;
   padding: 20px;
   margin: 0;
-  top: 0;
-  left: 0;
-  z-index: 100;
-  background: #000;
 }
 
 .menu dt {
@@ -264,7 +256,7 @@ footer {
 }
 
 .menu dt a {
-  color: #fff;
+  color: #212529;
   letter-spacing: 1px;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
@@ -281,7 +273,7 @@ footer {
 
 .name {
   color: #fe8752;
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Sen", sans-serif, "Muli", sans-serif;
 }
 
@@ -293,7 +285,7 @@ footer {
 .desp {
   font-size: 18px;
   font-weight: 300;
-  color: gray;
+  color: #212529;
 }
 
 .wrap-img {
@@ -312,7 +304,7 @@ footer {
 }
 
 .wrap-img .thumbnail .title {
-  color: #fff;
+  color: #212529;
   font-size: 20px;
   font-weight: 600;
   margin-top: 10px;
@@ -333,7 +325,7 @@ footer {
 }
 
 .wrap-img .thumbnail > .subtitle {
-  color: #fff;
+  color: #212529;
   font-size: 16px;
 }
 
@@ -384,7 +376,6 @@ footer {
 .top-img {
   width: 100%;
   height: 515px;
-  margin-top: 40px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -392,7 +383,7 @@ footer {
 
 .summary {
   letter-spacing: 8px;
-  color: #555;
+  color: #212529;
 }
 
 .prj-title {

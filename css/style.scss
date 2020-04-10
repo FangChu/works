@@ -36,7 +36,7 @@ $font-family: 'Sen', sans-serif,'Muli', sans-serif;
 $primary: #30c39e;
 $font-title: 20px;
 $font-sub: 16px;
-$font-gray: #555;
+$font-gray: #212529;
 $font-gray-1: #aaa;
 $font-size: 14px;
 $font-light: #fff;
@@ -48,11 +48,11 @@ $font-main: #fe8752;
 }
 
 body{
-    background:  #000;
+    background:  #fff;
     font-family: $font-family;
     font-weight: 100;
     margin-bottom: 0;
-    color: $font-light;
+    color: #232323;
     line-height: 2;
 }
 
@@ -65,14 +65,14 @@ body{
     background: #fff;
     color: #000;
 
-    .menu{
-        background: #212529;
+    // .menu{
+    //     background: #212529;
         
-    }
+    // }
 }
 
 a{
-    color: #fff;
+    color: $font-gray;
     transition: all 0.4s;
 
     &:hover{
@@ -270,21 +270,21 @@ footer{
 
 .menu{
     text-align: right;
-    position: fixed;
+    position: relative;
     width: 100%;
     padding: 20px;
     margin: 0;
-    top: 0;
-    left: 0;
-    z-index: 100;
-    background: #000;
+    // top: 0;
+    // left: 0;
+    // z-index: 100;
+    // background: #000;
 
     dt{
         display: inline-block;
         margin-right: 40px;
 
         a{
-            color: $font-light;
+            color: $font-gray;
             letter-spacing: 1px;
             transition: all 0.4s;
             text-decoration: none;
@@ -302,7 +302,7 @@ footer{
 
 .name{
     color: $font-main;
-    font-size: 50px;
+    font-size: 40px;
     font-family: $font-family;
 
     span{
@@ -314,7 +314,7 @@ footer{
 .desp{
     font-size: 18px;
     font-weight: 300;
-    color: gray;
+    color: $font-gray;
 }
 
 .wrap-img{
@@ -329,7 +329,7 @@ footer{
         }
 
         .title{
-            color: $font-light;
+            color: $font-gray;
             font-size: $font-title;
             font-weight: 600;
             margin-top: 10px;
@@ -350,7 +350,7 @@ footer{
 
 
         & > .subtitle{
-            color: $font-light;
+            color: $font-gray;
             font-size: $font-sub;
         }
     }
@@ -404,7 +404,7 @@ footer{
 .top-img{
     width: 100%;
     height: 515px;
-    margin-top: 40px;
+    // margin-top: 40px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50%;
