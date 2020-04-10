@@ -85,6 +85,10 @@ a{
 p{
     margin-bottom: 20px;
     line-height: 1.8;
+
+    a{
+        color: $font-gray-1;
+    }
 }
 
 .text-imp{

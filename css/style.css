@@ -58,6 +58,10 @@ p {
   line-height: 1.8;
 }
 
+p a {
+  color: #aaa;
+}
+
 .text-imp {
   border-bottom: 5px solid #ffc254;
 }
