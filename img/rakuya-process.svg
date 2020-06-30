@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="807" height="295.5" viewBox="0 0 807 295.5">
+  <g id="Group_361" data-name="Group 361" transform="translate(-196 -2014.5)">
+    <g id="Group_360" data-name="Group 360" transform="translate(196 2016)">
+      <g id="Icon_feather-pen-tool" data-name="Icon feather-pen-tool" transform="translate(143.57 41.828)">
+        <path id="Path_316" data-name="Path 316" d="M18,23.935,23.935,18l2.544,2.544-5.935,5.935Z" transform="translate(-9.521 -9.521)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_317" data-name="Path 317" d="M16.566,12.326,15.294,5.967,3,3,5.967,15.294l6.359,1.272Z" transform="translate(-3 -3)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_318" data-name="Path 318" d="M3,3,9.432,9.432" transform="translate(-3 -3)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_319" data-name="Path 319" d="M16.891,15.2a1.7,1.7,0,1,1-1.7-1.7A1.7,1.7,0,0,1,16.891,15.2Z" transform="translate(-7.565 -7.565)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Icon_feather-pen-tool-2" data-name="Icon feather-pen-tool" transform="translate(441.449 41.828)">
+        <path id="Path_316-2" data-name="Path 316" d="M18,23.935,23.935,18l2.544,2.544-5.935,5.935Z" transform="translate(-9.521 -9.521)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_317-2" data-name="Path 317" d="M16.566,12.326,15.294,5.967,3,3,5.967,15.294l6.359,1.272Z" transform="translate(-3 -3)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_318-2" data-name="Path 318" d="M3,3,9.432,9.432" transform="translate(-3 -3)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_319-2" data-name="Path 319" d="M16.891,15.2a1.7,1.7,0,1,1-1.7-1.7A1.7,1.7,0,0,1,16.891,15.2Z" transform="translate(-7.565 -7.565)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Designer" transform="translate(112 93)" font-size="19" font-family="PSLOrnanongPro-Bold, PSL Ornanong Pro" font-weight="700"><tspan x="0" y="0">Designer</tspan></text>
+      <text id="Developer" transform="translate(264 93)" font-size="19" font-family="PSLOrnanongPro-Bold, PSL Ornanong Pro" font-weight="700"><tspan x="0" y="0">Developer</tspan></text>
+      <text id="Developer-2" data-name="Developer" transform="translate(563 93)" font-size="19" font-family="PSLOrnanongPro-Bold, PSL Ornanong Pro" font-weight="700"><tspan x="0" y="0">Developer</tspan></text>
+      <text id="Front-End" transform="translate(413 93)" font-size="19" font-family="PSLOrnanongPro-Bold, PSL Ornanong Pro" font-weight="700"><tspan x="0" y="0">Front-End</tspan></text>
+      <path id="Icon_awesome-code" data-name="Icon awesome-code" d="M11.084,20.33l-2.424-.7a.478.478,0,0,1-.326-.592L13.758.347A.478.478,0,0,1,14.35.021l2.424.7a.478.478,0,0,1,.326.592L11.676,20a.476.476,0,0,1-.592.326ZM6.553,15.871l1.729-1.844a.477.477,0,0,0-.032-.684l-3.6-3.168,3.6-3.168a.474.474,0,0,0,.032-.684L6.553,4.48a.477.477,0,0,0-.676-.02L.15,9.826a.474.474,0,0,0,0,.7L5.877,15.89a.474.474,0,0,0,.676-.02Zm13,.024,5.727-5.369a.474.474,0,0,0,0-.7L19.557,4.456a.481.481,0,0,0-.676.02L17.152,6.32A.477.477,0,0,0,17.184,7l3.6,3.172-3.6,3.168a.474.474,0,0,0-.032.684l1.729,1.844a.478.478,0,0,0,.676.024Z" transform="translate(288.272 40.129)"/>
+      <path id="Icon_awesome-code-2" data-name="Icon awesome-code" d="M11.084,20.33l-2.424-.7a.478.478,0,0,1-.326-.592L13.758.347A.478.478,0,0,1,14.35.021l2.424.7a.478.478,0,0,1,.326.592L11.676,20a.476.476,0,0,1-.592.326ZM6.553,15.871l1.729-1.844a.477.477,0,0,0-.032-.684l-3.6-3.168,3.6-3.168a.474.474,0,0,0,.032-.684L6.553,4.48a.477.477,0,0,0-.676-.02L.15,9.826a.474.474,0,0,0,0,.7L5.877,15.89a.474.474,0,0,0,.676-.02Zm13,.024,5.727-5.369a.474.474,0,0,0,0-.7L19.557,4.456a.481.481,0,0,0-.676.02L17.152,6.32A.477.477,0,0,0,17.184,7l3.6,3.172-3.6,3.168a.474.474,0,0,0-.032.684l1.729,1.844a.478.478,0,0,0,.676.024Z" transform="translate(586.152 40.129)"/>
+      <text id="Research_Data_analysis_Planing_Ideas" data-name="Research
+Data analysis
+Planing
+Ideas" transform="translate(6 121)" font-size="11" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Research</tspan><tspan y="0" font-family="Sana"></tspan><tspan x="0" y="16">Data</tspan><tspan y="16" font-family="Sana"> </tspan><tspan y="16">analysis</tspan><tspan y="16" font-family="Sana"></tspan><tspan x="0" y="32">Planing</tspan><tspan y="32" font-family="Sana"></tspan><tspan x="0" y="48">Ideas</tspan></text>
+      <text id="Research_Competitive_analysis_Persona_User_Journey_Map_Wireframe_" data-name="Research
+Competitive analysis
+Persona
+User Journey Map
+Wireframe
+" transform="translate(112 121)" font-size="11" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Research</tspan><tspan y="0" font-family="Sana"></tspan><tspan x="0" y="16">Competitive</tspan><tspan y="16" font-family="Sana"> </tspan><tspan y="16">analysis</tspan><tspan y="16" font-family="Sana"></tspan><tspan x="0" y="32">Persona</tspan><tspan y="32" font-family="Sana"></tspan><tspan x="0" y="48">User</tspan><tspan y="48" font-family="Sana"> </tspan><tspan y="48">Journey</tspan><tspan y="48" font-family="Sana"> </tspan><tspan y="48">Map</tspan><tspan y="48" font-family="Sana"></tspan><tspan x="0" y="64">Wireframe</tspan><tspan y="64" font-family="Sana"></tspan><tspan font-family="Sana"><tspan x="0" y="80"></tspan></tspan></text>
+      <text id="Design_System_Html_Css" data-name="Design System
+Html Css" transform="translate(414 121)" font-size="11" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Design</tspan><tspan y="0" font-family="Sana"> </tspan><tspan y="0">System</tspan><tspan y="0" font-family="Sana"></tspan><tspan x="0" y="16">Html</tspan><tspan y="16" font-family="Sana"> </tspan><tspan y="16">Css</tspan></text>
+      <text id="Developing_Steps" data-name="Developing Steps" transform="translate(563 122)" font-size="12" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Developing</tspan><tspan y="0" font-family="Sana"> </tspan><tspan y="0">Steps</tspan></text>
+      <text id="Testing_" data-name="Testing " transform="translate(728 125)" font-size="12" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Testing</tspan><tspan y="0" font-family="Sana"> </tspan></text>
+      <text id="Checking_Details" data-name="Checking  Details" transform="translate(264 122)" font-size="12" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Checking</tspan><tspan y="0" xml:space="preserve" font-family="Sana">  </tspan><tspan y="0">Details</tspan></text>
+      <g id="Group_352" data-name="Group 352" transform="translate(13.027 203.422)">
+        <g id="Group_351" data-name="Group 351" transform="translate(0 0)">
+          <g id="Group_350" data-name="Group 350" transform="translate(0)">
+            <g id="Group_349" data-name="Group 349">
+              <g id="Group_348" data-name="Group 348">
+                <path id="Path_321" data-name="Path 321" d="M1954,1474v21.474h136.988V1474" transform="translate(-1947.809 -1468.85)" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+                <g id="Polygon_1" data-name="Polygon 1" transform="translate(-0.027 -0.422)">
+                  <path d="M 12.12378215789795 10.5 L 0.8762181997299194 10.5 L 6.5 0.9828307628631592 L 12.12378215789795 10.5 Z" stroke="none"/>
+                  <path d="M 6.5 1.965688705444336 L 1.75245189666748 10 L 11.24754810333252 10 L 6.5 1.965688705444336 M 6.5 0 L 13 11 L 0 11 L 6.5 0 Z" stroke="none" fill="#1a1a1a"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_359" data-name="Group 359" transform="translate(606.258 203.422)">
+        <g id="Group_351-2" data-name="Group 351" transform="translate(0 0)">
+          <g id="Group_350-2" data-name="Group 350" transform="translate(0)">
+            <g id="Group_349-2" data-name="Group 349">
+              <g id="Group_348-2" data-name="Group 348">
+                <path id="Path_321-2" data-name="Path 321" d="M1954,1474v21.474h136.988V1474" transform="translate(-1947.542 -1468.85)" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+                <g id="Polygon_1-2" data-name="Polygon 1" transform="translate(-0.258 -0.422)">
+                  <path d="M 11.15772438049316 10.5 L 0.8422754406929016 10.5 L 6 1.044171690940857 L 11.15772438049316 10.5 Z" stroke="none"/>
+                  <path d="M 6 2.088333129882812 L 1.684545516967773 10 L 10.31545448303223 10 L 6 2.088333129882812 M 6 0 L 12 11 L 0 11 L 6 0 Z" stroke="none" fill="#1a1a1a"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_353" data-name="Group 353" transform="translate(18.653)">
+        <g id="Group_351-3" data-name="Group 351" transform="translate(0)">
+          <g id="Group_350-3" data-name="Group 350">
+            <g id="Group_349-3" data-name="Group 349">
+              <g id="Group_348-3" data-name="Group 348">
+                <path id="Path_321-3" data-name="Path 321" d="M2090.988,1495.475V1474H1954v21.474" transform="translate(-1954 -1474)" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+                <g id="Polygon_1-3" data-name="Polygon 1" transform="translate(143.206 26.562) rotate(180)">
+                  <path d="M 11.56795883178711 10.23948287963867 L 0.8672211766242981 10.23948287963867 L 6.217589855194092 0.9979314804077148 L 11.56795883178711 10.23948287963867 Z" stroke="none"/>
+                  <path d="M 6.217589855194092 1.995877265930176 L 1.734452247619629 9.739482879638672 L 10.70072746276855 9.739482879638672 L 6.217589855194092 1.995877265930176 M 6.217589855194092 2.86102294921875e-06 L 12.43517971038818 10.73948287963867 L 0 10.73948287963867 L 6.217589855194092 2.86102294921875e-06 Z" stroke="none" fill="#1a1a1a"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_358" data-name="Group 358" transform="translate(598.02)">
+        <g id="Group_351-4" data-name="Group 351" transform="translate(0)">
+          <g id="Group_350-4" data-name="Group 350">
+            <g id="Group_349-4" data-name="Group 349">
+              <g id="Group_348-4" data-name="Group 348">
+                <path id="Path_321-4" data-name="Path 321" d="M2090.988,1495.475V1474H1954v21.474" transform="translate(-1954 -1474)" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+                <g id="Polygon_1-4" data-name="Polygon 1" transform="translate(143.206 26.562) rotate(180)">
+                  <path d="M 11.56795883178711 10.23948287963867 L 0.8672211766242981 10.23948287963867 L 6.217589855194092 0.9979314804077148 L 11.56795883178711 10.23948287963867 Z" stroke="none"/>
+                  <path d="M 6.217589855194092 1.995877265930176 L 1.734452247619629 9.739482879638672 L 10.70072746276855 9.739482879638672 L 6.217589855194092 1.995877265930176 M 6.217589855194092 2.86102294921875e-06 L 12.43517971038818 10.73948287963867 L 0 10.73948287963867 L 6.217589855194092 2.86102294921875e-06 Z" stroke="none" fill="#1a1a1a"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Discussion_" data-name="Discussion " transform="translate(51 250)" font-size="12" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Discussion</tspan><tspan y="0" font-family="Sana"> </tspan></text>
+      <text id="Discussion_2" data-name="Discussion " transform="translate(643 250)" font-size="12" font-family="LucidaGrande, Lucida Grande"><tspan x="0" y="0">Discussion</tspan><tspan y="0" font-family="Sana"> </tspan></text>
+      <g id="Group_354" data-name="Group 354" transform="translate(61.328 83.372)">
+        <line id="Line_198" data-name="Line 198" x2="23.175" transform="translate(0 2.826)" fill="none"/>
+        <path id="Polygon_2" data-name="Polygon 2" d="M3.109,0,6.218,5.652H0Z" transform="translate(28.827 0) rotate(90)"/>
+      </g>
+      <g id="Group_355" data-name="Group 355" transform="translate(208.29 85.068)">
+        <line id="Line_198-2" data-name="Line 198" x2="23.175" transform="translate(0 2.826)" fill="none"/>
+        <path id="Polygon_2-2" data-name="Polygon 2" d="M3.109,0,6.218,5.652H0Z" transform="translate(28.827 0) rotate(90)"/>
+      </g>
+      <g id="Group_356" data-name="Group 356" transform="translate(371.643 86.198)">
+        <line id="Line_198-3" data-name="Line 198" x2="23.175" transform="translate(0 2.826)" fill="none"/>
+        <path id="Polygon_2-3" data-name="Polygon 2" d="M3.109,0,6.218,5.652H0Z" transform="translate(28.827 0) rotate(90)"/>
+      </g>
+      <g id="Group_357" data-name="Group 357" transform="translate(525.952 82.242)">
+        <line id="Line_198-4" data-name="Line 198" x2="23.175" transform="translate(135.091 2.826)" fill="none"/>
+        <path id="Polygon_2-4" data-name="Polygon 2" d="M3.109,0,6.218,5.652H0Z" transform="translate(163.918 0) rotate(90)"/>
+        <path id="Polygon_3" data-name="Polygon 3" d="M3.109,0,6.218,5.652H0Z" transform="translate(5.652 0) rotate(90)"/>
+      </g>
+      <rect id="Rectangle_420" data-name="Rectangle 420" width="501" height="30" rx="15" transform="translate(0 264)" fill="#efefef"/>
+      <g id="Icon_feather-book-open" data-name="Icon feather-book-open" transform="translate(732.546 41.828)">
+        <path id="Path_314" data-name="Path 314" d="M3,4.5H8.087a3.391,3.391,0,0,1,3.391,3.391v11.87a2.544,2.544,0,0,0-2.544-2.544H3Z" transform="translate(-3 -4.5)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_315" data-name="Path 315" d="M26.479,4.5H21.391A3.391,3.391,0,0,0,18,7.891v11.87a2.544,2.544,0,0,1,2.544-2.544h5.935Z" transform="translate(-9.521 -4.5)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="PM_Team" data-name="PM/Team" transform="translate(728 93)" font-size="19" font-family="PSLOrnanongPro-Bold, PSL Ornanong Pro" font-weight="700"><tspan x="0" y="0">PM/Team</tspan></text>
+      <text id="I_joined_these_steps." data-name="I joined these steps." transform="translate(194 283)" font-size="13" font-family="PSLOrnanongPro-Regular, PSL Ornanong Pro"><tspan x="0" y="0">I joined these steps.</tspan></text>
+    </g>
+    <g id="Icon_feather-book-open-2" data-name="Icon feather-book-open" transform="translate(209 2058.958)">
+      <path id="Path_314-2" data-name="Path 314" d="M3,4.5H8.087a3.391,3.391,0,0,1,3.391,3.391v11.87a2.544,2.544,0,0,0-2.544-2.544H3Z" transform="translate(-3 -4.5)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_315-2" data-name="Path 315" d="M26.479,4.5H21.391A3.391,3.391,0,0,0,18,7.891v11.87a2.544,2.544,0,0,1,2.544-2.544h5.935Z" transform="translate(-9.521 -4.5)" fill="none" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <text id="PM" transform="translate(203 2112)" font-size="19" font-family="PSLOrnanongPro-Bold, PSL Ornanong Pro" font-weight="700"><tspan x="0" y="0">PM</tspan></text>
+  </g>
+</svg>
