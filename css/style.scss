@@ -32,7 +32,7 @@ $break-desktop: 860px;
 // $break-large: 1200px;
 
 
-$font-family: 'Sen', sans-serif,'Muli', sans-serif;
+$font-family: sans-serif,'Muli', sans-serif;
 $primary: #30c39e;
 $font-title: 20px;
 $font-sub: 16px;
@@ -54,6 +54,7 @@ body{
     margin-bottom: 0;
     color: #232323;
     line-height: 2;
+    letter-spacing: 0.5px;
 }
 
 #full-page {
@@ -351,10 +352,11 @@ footer{
 
         .title{
             color: $font-gray;
-            font-size: $font-title;
-            font-weight: 600;
+            font-size: $font-sub;
+            font-weight: normal;
             margin-top: 10px;
-            text-transform: uppercase;
+            text-align: left;
+            
         }
     
         &:hover >.title{
@@ -371,8 +373,9 @@ footer{
 
 
         & > .subtitle{
-            color: $font-gray;
-            font-size: $font-sub;
+            color: $font-gray-1;
+            font-size: 14px;
+            text-align: left;
         }
     }
 

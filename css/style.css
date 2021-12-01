@@ -24,11 +24,12 @@
 
 body {
   background: #fff;
-  font-family: "Sen", sans-serif, "Muli", sans-serif;
+  font-family: sans-serif, "Muli", sans-serif;
   font-weight: 100;
   margin-bottom: 0;
   color: #232323;
   line-height: 2;
+  letter-spacing: 0.5px;
 }
 
 #full-page {
@@ -295,7 +296,7 @@ footer {
 .name {
   color: #ffc0c0;
   font-size: 40px;
-  font-family: "Sen", sans-serif, "Muli", sans-serif;
+  font-family: sans-serif, "Muli", sans-serif;
 }
 
 .name span {
@@ -326,10 +327,10 @@ footer {
 
 .wrap-img .thumbnail .title {
   color: #212529;
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: normal;
   margin-top: 10px;
-  text-transform: uppercase;
+  text-align: left;
 }
 
 .wrap-img .thumbnail:hover > .title {
@@ -346,8 +347,9 @@ footer {
 }
 
 .wrap-img .thumbnail > .subtitle {
-  color: #212529;
-  font-size: 16px;
+  color: #aaa;
+  font-size: 14px;
+  text-align: left;
 }
 
 .hr {
