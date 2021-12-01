@@ -503,4 +503,19 @@ footer{
         }
     }
 
+    
 }
+
+.dlstyle{
+    font-size: 14px;
+    dt{
+        color: $font-main;
+        margin-bottom: 0;
+        list-style-type: disc;
+    }
+}
+
+b{
+ font-weight: 900;
+}
+
