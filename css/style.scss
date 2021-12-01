@@ -26,13 +26,13 @@
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
   }
-  
+
 
 $break-desktop: 860px;
 // $break-large: 1200px;
 
 
-$font-family: sans-serif,'Muli', sans-serif;
+$font-family: "Work Sans", sans-serif, "Noto Sans TC", Microsoft JhengHei, 微軟正黑體, Helvetica Neue;
 $primary: #30c39e;
 $font-title: 20px;
 $font-sub: 16px;
@@ -415,10 +415,7 @@ footer{
         display: block;
     }
 
-    p{
-        text-align: justify;
-        font-family: 'Muli';
-    }
+   
 }
 
 .article-center{
