@@ -506,12 +506,18 @@ footer{
     
 }
 
-.dlstyle{
+.job-info{
+    margin-top: 35px;
     font-size: 14px;
     dt{
         color: $font-main;
         margin-bottom: 0;
         list-style-type: disc;
+        
+    }
+
+    dd a{
+        text-decoration: underline;
     }
 }
 
