@@ -411,6 +411,9 @@ footer {
   margin-bottom: 0;
   list-style-type: disc;
 }
+.job-info b {
+  font-size: 16px;
+}
 .job-info dd a {
   text-decoration: underline;
 }
