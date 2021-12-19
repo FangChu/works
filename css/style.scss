@@ -38,6 +38,7 @@ $font-title: 20px;
 $font-sub: 16px;
 $font-gray: #212529;
 $font-gray-1: #aaa;
+$font-gray-2: #4f4f4f;
 $font-size: 14px;
 $font-light: #fff;
 $font-main: #ffc0c0;
@@ -337,6 +338,11 @@ footer{
     font-size: 18px;
     font-weight: 300;
     color: $font-gray;
+}
+
+.desp2{
+
+    color: $font-gray-2;
 }
 
 .wrap-img{
