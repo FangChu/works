@@ -314,13 +314,14 @@ footer {
 }
 
 .desp {
-  font-size: 18px;
-  font-weight: 300;
-  color: #212529;
+  font-size: 14px;
+  font-weight: 700;
+  color: #4f4f4f;
 }
 
 .desp2 {
-  color: #4f4f4f;
+  font-size: 14px;
+  color: #aaa;
 }
 
 .wrap-img {
