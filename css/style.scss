@@ -155,8 +155,16 @@ footer{
     .headtitle{
         text-align-last: left;
         margin: 45px 0 30px;
-        font-size: 22px;
+        font-size: 20px;
         font-weight: 800;
+        color: #2F80ED;
+
+    }
+    &-content{
+        color: #333333!important;
+        font-size: 15px;
+        font-weight: 400!important;
+        line-height: 26px;
     }
 
     .image{
@@ -444,8 +452,22 @@ footer{
 
 .prj-title{
     margin-top: 50px;
-    color: #5f5f5f;
+    color:#333333;
     font-weight: 900;
+    font-size: 22px;
+    margin-bottom: 20px;
+
+    &-info-name{
+        color:#828282;
+        font-size: 13px;
+        font-weight: 400;
+        margin-bottom: 15px;
+    }
+    &-info-content{
+        color: #4F4F4F;
+        font-size: 13px;
+        font-weight: 400;
+    }
 }
 
 .info{
@@ -533,5 +555,12 @@ footer{
 
 b{
  font-weight: 900;
+}
+
+.mt-15px{
+    margin-top: 15px!important;
+}
+.mt-45px{
+    margin-top: 45px!important;
 }
 
