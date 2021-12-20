@@ -123,16 +123,8 @@ footer {
 .article .headtitle {
   text-align-last: left;
   margin: 45px 0 30px;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 800;
-  color: #2F80ED;
-}
-
-.article-content {
-  color: #333333 !important;
-  font-size: 15px;
-  font-weight: 400 !important;
-  line-height: 26px;
 }
 
 .article .image {
@@ -512,13 +504,5 @@ footer {
 
 b {
   font-weight: 900;
-}
-
-.mt-15px {
-  margin-top: 15px !important;
-}
-
-.mt-45px {
-  margin-top: 45px !important;
 }
 /*# sourceMappingURL=style.css.map */
