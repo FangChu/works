@@ -115,6 +115,10 @@ p{
     .imgae{
         text-align: center;
     }
+    
+    img{
+        margin-bottom: 10px;
+    }
 
 }
 
@@ -150,7 +154,7 @@ footer{
 }
 
 .article{
-    text-align: center;
+    // text-align: center;
 
     .headtitle{
         text-align-last: left;
@@ -181,7 +185,7 @@ footer{
     }
 
     p{
-        text-align: justify;
+        text-align: normal;
         margin-top: 5px;
         font-family: 'Fakt', sans-serif;
         font-weight: 100;
@@ -451,7 +455,7 @@ footer{
 }
 
 .prj-title{
-    margin-top: 0px;
+    margin-top: 30px;
     color:#333333;
     font-weight: 900;
     font-size: 22px;
