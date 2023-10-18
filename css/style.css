@@ -505,4 +505,9 @@ footer {
 b {
   font-weight: 900;
 }
+
+.img-fluid{
+  width: 455px;
+  height: 300px;
+}
 /*# sourceMappingURL=style.css.map */
