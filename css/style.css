@@ -24,7 +24,7 @@
 }
 
 body {
-  background: #fff;
+  background: #fbf9f3;
   font-family: "Work Sans", sans-serif, "Noto Sans TC", Microsoft JhengHei, 微軟正黑體, Helvetica Neue;
   font-weight: 100;
   margin-bottom: 0;
@@ -52,7 +52,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #ffc0c0;
+  color: #2ab488;
 }
 
 p {
@@ -132,7 +132,7 @@ footer {
 }
 
 .article h3 {
-  color: #ffc0c0;
+  color: #2ab488;
 }
 
 .article h5 {
@@ -287,15 +287,15 @@ footer {
 }
 
 .menu dt a:hover {
-  color: #ffc0c0;
+  color: #2ab488;
 }
 
 .menu dt a.active {
-  color: #ffc0c0;
+  color: #2ab488;
 }
 
 .name {
-  color: #ffc0c0;
+  color: #2ab488;
   font-size: 40px;
   font-family: "Work Sans", sans-serif, "Noto Sans TC", Microsoft JhengHei, 微軟正黑體, Helvetica Neue;
 }
@@ -340,7 +340,7 @@ footer {
 }
 
 .wrap-img .thumbnail:hover > .title {
-  color: #ffc0c0;
+  color: #2ab488;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
@@ -360,7 +360,7 @@ footer {
 
 .hr {
   border-width: 1px;
-  border-color: #ffc0c0;
+  border-color: #2ab488;
   margin: 10px 0;
 }
 
@@ -450,7 +450,7 @@ footer {
 
 .info .title {
   margin-bottom: 10px;
-  color: #ffc0c0;
+  color: #2ab488;
   font-size: 16px;
   font-weight: 900;
 }
@@ -489,7 +489,7 @@ footer {
 }
 
 .job-info dt {
-  color: #ffc0c0;
+  color: #2ab488;
   margin-bottom: 0;
   list-style-type: disc;
 }
