@@ -506,7 +506,7 @@ b {
   font-weight: 900;
 }
 
-.img-fluid{
+.img-fluid.thumb{
   width: 455px;
   height: 300px;
 }
