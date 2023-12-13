@@ -183,7 +183,7 @@ footer {
 } */
 
 .top {
-  margin: 40px 0 60px 0;
+  margin: 40px 0 24px 0;
 }
 
 .list {
@@ -338,8 +338,8 @@ footer {
 
 .wrap-img .thumbnail .title {
   color: #212529;
-  font-size: 16px;
-  font-weight: normal;
+  font-size: 20px;
+  font-weight: 700;
   margin-top: 10px;
   text-align: left;
 }
@@ -524,8 +524,8 @@ b {
 }
 
 .img-fluid.thumb{
-  width: 455px;
-  height: 300px;
+  width: 100%;
+  height: 368px;
 }
 
 .img-fixed{
