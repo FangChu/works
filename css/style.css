@@ -23,14 +23,16 @@
   animation-name: fadeIn;
 }
 
+
 body {
   background: #fbf9f3;
-  font-family: "Work Sans", sans-serif, "Noto Sans TC", Microsoft JhengHei, 微軟正黑體, Helvetica Neue;
+  font-family: 'Open Sans','Roboto','Be Vietnam Pro', sans-serif, "Noto Sans TC", Microsoft JhengHei, 微軟正黑體, Helvetica Neue;
   font-weight: 100;
   margin-bottom: 0;
-  color: #232323;
-  line-height: 2;
-  letter-spacing: 0.5px;
+  color: #333333;
+  line-height: 1.6;
+  /* letter-spacing: 0.2px; */
+  overflow-x:hidden ;
 }
 
 #full-page {
@@ -40,7 +42,7 @@ body {
 }
 
 .inner-content {
-  background: #fff;
+  /* background: #fff; */
   color: #000;
 }
 
@@ -79,7 +81,7 @@ p a {
 .inner {
   width: auto;
   margin: 0 auto;
-  padding: 20px 0;
+  padding: 16px 16px;
 }
 
 .inner .imgae {
@@ -106,7 +108,7 @@ footer {
 }
 
 .pre-info h6 {
-  font-family: "Radnika-Bold", sans-serif;
+  /* font-family: "Radnika-Bold", sans-serif; */
   font-weight: 800;
 }
 
@@ -122,18 +124,18 @@ footer {
 
 .article .headtitle {
   text-align-last: left;
-  margin: 45px 0 30px;
+  margin: 45px 0 16px;
   font-size: 22px;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .article .image {
   text-align: center;
 }
 
-.article h3 {
+/* .article h3 {
   color: #2ab488;
-}
+} */
 
 .article h5 {
   font-size: 16px;
@@ -142,10 +144,12 @@ footer {
 
 .article p {
   text-align: normal;
-  margin-top: 5px;
+  margin-top: 4px;
   font-family: 'Fakt', sans-serif;
-  font-weight: 100;
+  /* font-weight: 400; */
   color: #333;
+  font-family: 'Open Sans','Roboto';
+
 }
 
 .article .keywords {
@@ -171,12 +175,12 @@ footer {
 }
 
 .row {
-  margin-bottom: 40px;
+  margin-bottom: 24px;
 }
 
-.col-sm-12 {
+/* .col-sm-12 {
   margin-bottom: 15px;
-}
+} */
 
 .top {
   margin: 40px 0 60px 0;
@@ -313,7 +317,8 @@ footer {
 
 .desp2 {
   font-size: 14px;
-  color: #aaa;
+  color: #8a8a8a;
+  margin-bottom: 10px;
 }
 
 .wrap-img {
@@ -372,13 +377,20 @@ footer {
   text-align: justify;
 }
 
+dt{
+  font-weight: 600;
+}
+
 .info {
   display: block;
   width: 100%;
+  font-family: 'Open Sans','Roboto';
+
 }
 
 .info dt {
   display: inline-block;
+  
 }
 
 .na_info {
@@ -411,11 +423,11 @@ footer {
 }
 
 .prj-title {
-  margin-top: 30px;
+  margin-top: 16px;
   color: #333333;
   font-weight: 900;
-  font-size: 22px;
-  margin-bottom: 15px;
+  font-size: 38px;
+  margin-bottom: 12px;
 }
 
 .prj-title-info-name {
@@ -433,10 +445,11 @@ footer {
 
 .info {
   margin-bottom: 30px;
+  padding: 0;
 }
 
 .info ul {
-  margin: 20px 0 0px 0;
+  /* margin: 16px 0 0px 16px; */
   padding: 0;
   font-size: 14px;
 }
@@ -444,21 +457,38 @@ footer {
 .info li {
   list-style: none;
   list-style-type: none;
-  margin-right: 10px;
-  margin-bottom: 5px;
+  margin-left: 16px;
+  margin-top: 4px;
+  font-size: 15px;
+  /* text-align: justify; */
 }
+
+/* .info li.no b {
+  font-weight: normal;
+  text-decoration-line:underline;
+} */
 
 .info .title {
   margin-bottom: 10px;
   color: #2ab488;
   font-size: 16px;
-  font-weight: 900;
+  font-weight: 400;
+  font-family: initial;
 }
 
 .info .title.first {
   border: none;
 }
 
+.notify{
+  padding: 16px;
+  background-color: #FFEEEE;
+  border-radius: 100px;
+  font-weight: 400;
+  color: #D58989;
+  font-size: 14px;
+  text-align: center;
+}
 .bg2 {
   background: black;
 }
@@ -468,20 +498,7 @@ footer {
   margin-top: 40px;
 }
 
-@media screen and (min-width: 860px) {
-  .inner {
-    width: 860px;
-  }
-  .container {
-    width: 960px;
-  }
-  .top-img {
-    height: 515px;
-  }
-  .menu dt {
-    width: auto;
-  }
-}
+
 
 .job-info {
   margin-top: 35px;
@@ -511,6 +528,53 @@ b {
   height: 300px;
 }
 
+.img-fixed{
+  display: block;
+}
 
+.img-fixed img{
+  width: 600px;
+}
+
+b{
+  font-weight: 600;
+}
+
+.full-width{
+  width: 100%;
+  display: block;
+  /* max-height: 500px; */
+}
+
+.full-width.b1{
+  
+  background: #FFC1A5;
+}
+
+.process dd{
+  font-size: 14px;
+}
+
+@media screen and (min-width: 860px) {
+  .inner {
+    width: 860px;
+    padding: 0 16px;
+  }
+  .container {
+    /* width: 860px; */
+    padding: 0 16px;
+
+  }
+  .top-img {
+    height: 515px;
+  }
+  .menu dt {
+    width: auto;
+  }
+
+  .img-fixed > img{
+    width: 100%;
+  }
+  
+}
 /*# sourceMappingURL=style.css.map */
-
