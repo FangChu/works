@@ -87,6 +87,7 @@ a{
 p{
     margin-bottom: 20px;
     line-height: 1.8;
+    // font-size: 14px;
 
     a{
         color: $font-gray-1;
@@ -152,13 +153,34 @@ footer{
         margin-bottom: 3px;
     }
 }
+.span1{
+    color: #2F80ED;
+    font-size: 12px;
+}
+
+.span2{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.img-custom{
+    width: 600px;
+    margin: 0 auto;
+}
+
+iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+  }
+  
 
 .article{
     // text-align: center;
 
     .headtitle{
         text-align-last: left;
-        margin: 45px 0 30px;
+        margin: 80px 0 20px;
         font-size: 22px;
         font-weight: 800;
     }
@@ -218,7 +240,7 @@ footer{
 }
 
 .top{
-    margin: 80px 0 60px 0;
+    margin: 30px 0 60px 0;
 }
 
 .list{
@@ -447,8 +469,7 @@ footer{
 }
 
 .prj-title{
-
-    margin-top: 30px;
+    // margin-top: 30px;
     color:#333333;
     font-weight: 900;
     font-size: 22px;
@@ -534,7 +555,7 @@ footer{
 
 .job-info{
     margin-top: 35px;
-    font-size: 14px;
+    font-size: 12px;
     dt{
         color: $font-main;
         margin-bottom: 0;
@@ -542,13 +563,17 @@ footer{
     }
 
     dd{
-        font-size: 14px;
+        font-size: 12px;
         line-height: 1.4;
     }
 
     dd a{
         text-decoration: underline;
     }
+}
+
+dd{
+    font-size: 12px;
 }
 
 b{
