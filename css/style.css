@@ -29,6 +29,7 @@ body {
   color: #232323;
   line-height: 2;
   letter-spacing: 0.5px;
+  overflow-x: hidden;
 }
 
 #full-page {
@@ -80,6 +81,13 @@ p a {
 }
 .inner img {
   margin-bottom: 10px;
+}
+
+.nope {
+  margin-left: 0px;
+}
+.nope span {
+  margin-right: 24px;
 }
 
 footer {
@@ -167,6 +175,10 @@ iframe {
   font-weight: 900;
 }
 
+.grey {
+  color: #999;
+}
+
 .unexpected {
   color: #999;
   text-decoration: line-through;
@@ -181,7 +193,7 @@ iframe {
 }
 
 .top {
-  margin: 30px 0 60px 0;
+  margin: 30px 0 10px 0;
 }
 
 .list {
@@ -323,6 +335,15 @@ iframe {
   text-align: left;
 }
 
+.row.tips {
+  margin-bottom: 0;
+  font-size: 14px;
+  margin-left: 0px;
+}
+.row.tips span {
+  margin-right: 14px;
+}
+
 .hr {
   border-width: 1px;
   border-color: #2ab488;
@@ -332,7 +353,6 @@ iframe {
 .about_desp {
   background-color: rgba(255, 255, 255, 0.2117647059);
   padding: 10px 0;
-  margin-top: 10px;
   border-radius: 10px;
   text-align: justify;
 }
